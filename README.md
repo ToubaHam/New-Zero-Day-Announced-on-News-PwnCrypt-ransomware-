@@ -96,4 +96,6 @@ DeviceProcessEvents
 - Enforce Endpoint Protection: Deploy and configure security policies to mitigate ransomware threats.
 - Enhance Security Awareness: Train employees to recognize and report phishing attempts.
 - Improve Threat Detection: Strengthen logging and monitoring systems to identify suspicious activities earlier.
+- Restrict Powershell Usage
+- Apply Network Segmentation 
   
